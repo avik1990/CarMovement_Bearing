@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ola Track</string>
+    <string name="title_activity_maps">Ola Track</string>
+
+    <string name="base_url">http://app.yourwebdesignguys.com/gps/gps.php?type=</string>
+
+</resources>
